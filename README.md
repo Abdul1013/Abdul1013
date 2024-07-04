@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul1013
-- 👀 I’m interested in Web 3, Artificial intelligence, development and technology. 
-- 🌱 I’m currently learning full-stack development and artificial intelligence. I am also a computer science student-athlete 
-- 💞️ I’m looking to collaborate on Inspiring and freelance projects. I am willing to work on any form of project as long it helps me gain experience and in my development as a techie
+- 👀 I’m interested in Web 3, Artificial intelligence development. 
+- 🌱 I’m currently learning full-stack software development and cyber security. I am also a Software Engineering student-athlete 
+- 💞️ I’m looking to collaborate on Inspiring and freelance projects and I am willing to work on  projects in other to gain experience in my development as a techie
 - 📫 How to reach me on instagram (@abdul10.dev) and also in twitter @Abdul_1013
 
 <!---
