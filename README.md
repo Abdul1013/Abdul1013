@@ -19,9 +19,6 @@ AI-driven Web Applications & Prompt Engineering
 🛠 Building:
 
 Market Trybe (E-commerce & Marketplace App | React Native, Firebase)
-
-TrybeNode (Cybersecurity Startup | Penetration Testing & Audits)
-
 AI-Powered Web3 Platform (Exploring AI & Blockchain Integration)
 
 🎯 Learning:
@@ -34,6 +31,7 @@ Advanced Cybersecurity Techniques (SQL Injection, Phishing, OS Vulnerabilities)
 
 🛠️ Tech Stack
 💻 Programming & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,babel,bash,discord,django,figma,firebase,git,github,Instagram,java,LinkedIn,materialui,matlab,mongodb,Mysql,netlify,nextjs,npm,notion,py,react,sass,tailwind,ts,vercel,twitter,vscode,vite)](https://skillicons.dev)
 
 
 
