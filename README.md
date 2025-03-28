@@ -1,4 +1,4 @@
-👋 Hey, I'm AbdulTheDev
+<h1>👋 Hey, I'm AbdulTheDev</h1>
 🚀 Full-Stack Developer | Cybersecurity Enthusiast | Web3 & AI Innovator
 
 As a Software Engineering Student, I specialize in scalable web app development, leveraging AI tools while transitioning into mobile development with React Native.
@@ -31,7 +31,6 @@ Advanced Cybersecurity Techniques (SQL Injection, Phishing, OS Vulnerabilities)
 
 🛠️ Tech Stack
 <p align="center">
-
 💻 Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,babel,bash,discord,django,figma,firebase,git,github,Instagram,java,LinkedIn,materialui,matlab,mongodb,Mysql,netlify,nextjs,npm,notion,py,react,sass,tailwind,ts,vercel,twitter,vscode,vite)](https://skillicons.dev)
 </p>
