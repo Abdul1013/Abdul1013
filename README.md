@@ -7,12 +7,27 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 
 
 ## 🚀 Currently...
-<div align="center">
+<div align="center", flex="row">
   
-                | 📖 Reading |                                          |🛠 Building |                                        | 🎯 Learning |
-
-            | The Pragmatic Programmer|                      |Market Trybe (E-commerce & Marketplace)|              | React Native & Mobile Development |
-              | The Art of War |                       |AI-Powered Web3 Platform(Event Management & Invitations)|      | TypeScript (TS) Enhancement |
+            🚀 Currently…
+            <div></div>
+        
+            
+            <div>
+📖 Reading:
+1. The Pragmatic Programmer
+2. Art of War 
+</div>
+<div>
+🛠 Building:
+Market Trybe (E-commerce & Marketplace App | React Native, Firebase)
+AI-Powered Web3 Platform (Exploring AI & Blockchain Integration){event management and Invitation}
+</div>
+    <div>
+🎯 Learning:
+1. React Native & Mobile Development
+2. Typescript (TS) Enhancment  put thin in a div and style in x axis 
+      </div>
 </div>
 
 🛠️ Tech Stack
