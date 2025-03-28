@@ -7,11 +7,13 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 
 
 ## 🚀 Currently...
-
+<div align="center">
+  
                 | 📖 Reading |                                          |🛠 Building |                                        | 🎯 Learning |
 
             | The Pragmatic Programmer|                      |Market Trybe (E-commerce & Marketplace)|              | React Native & Mobile Development |
               | The Art of War |                       |AI-Powered Web3 Platform(Event Management & Invitations)|      | TypeScript (TS) Enhancement |
+</div>
 
 🛠️ Tech Stack
 <p align="center">
