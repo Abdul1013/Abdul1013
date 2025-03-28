@@ -7,13 +7,9 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 
 
 ## 🚀 Currently...
-<div align="center", flex="row">
-  
-            🚀 Currently…
-            <div></div>
-        
-            
-            <div>
+<div align="center", flex="row"> 
+🚀 Currently....            
+<div>
 📖 Reading:
 1. The Pragmatic Programmer
 2. Art of War 
@@ -23,11 +19,11 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 Market Trybe (E-commerce & Marketplace App | React Native, Firebase)
 AI-Powered Web3 Platform (Exploring AI & Blockchain Integration){event management and Invitation}
 </div>
-    <div>
+<div>
 🎯 Learning:
 1. React Native & Mobile Development
 2. Typescript (TS) Enhancment  put thin in a div and style in x axis 
-      </div>
+</div>
 </div>
 
 🛠️ Tech Stack
