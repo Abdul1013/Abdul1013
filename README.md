@@ -1,51 +1,29 @@
-<h1>👋 Hey, I'm AbdulTheDev</h1>
-🚀 Full-Stack Developer | Cybersecurity Enthusiast | Web3 & AI Innovator
+<div align="center"><h1>Assalamu alaykum, Hey, I'm Abdulhaq</h1>
+<h2>🚀 Software Engineer | Aspiring Cyber Security Analyst </h2>
+  <h3> 🌐web2 & web3⛓ development | cross-platfrom Mobile 📱 Developer | 🤖AI Integrator </h3>
+</div>
 
-As a Software Engineering Student, I specialize in scalable web app development, leveraging AI tools while transitioning into mobile development with React Native.
+I specialize in building scalable and secure web and mobile apps, applying engineering principles, and leveraging AI tools. With strong expertise in front-end technologies, serverless and cloud backend, project management, and API integration, I am passionate about crafting user-friendly technological solutions and collaborating with cross-functional teams to bridge the gap between technical requirements and business objectives. Beyond development, I have a deep interest in Web3 and Cybersecurity, particularly in blockchain applications, smart contracts, and ethical hacking.
 
-I am skilled in front-end technologies, project management, and API integration, and I am passionate about building user-friendly applications and collaborating with cross-functional teams to deliver impactful digital solutions.
-
-Additionally, I have a deep interest in Web3 and Cybersecurity, particularly in blockchain applications, smart contracts, and ethical hacking.
 
 🚀 Currently…
 📖 Reading:
-
-Ethical Hacking & Cybersecurity (TutsNode Course)
-
-Web3 & Smart Contracts Development
-
-AI-driven Web Applications & Prompt Engineering
+1. The Pragmatic Programmer
+2. Art of War 
 
 🛠 Building:
-
 Market Trybe (E-commerce & Marketplace App | React Native, Firebase)
-AI-Powered Web3 Platform (Exploring AI & Blockchain Integration)
+AI-Powered Web3 Platform (Exploring AI & Blockchain Integration){event management and Invitation}
 
 🎯 Learning:
-
-React Native & Mobile Development
-
-Cloud Infrastructure & DevOps
-
-Advanced Cybersecurity Techniques (SQL Injection, Phishing, OS Vulnerabilities)
+1. React Native & Mobile Development
+2. Typescript (TS) Enhancment 
 
 🛠️ Tech Stack
 <p align="center">
 💻 Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,babel,bash,discord,django,figma,firebase,git,github,Instagram,java,LinkedIn,materialui,matlab,mongodb,Mysql,netlify,nextjs,npm,notion,py,react,sass,tailwind,ts,vercel,twitter,vscode,vite)](https://skillicons.dev)
 </p>
-
-
-
-📱 Mobile Development (Learning)
-
-🗄 Database Management
-
-
-
-🎨 UI/UX & Styling
-
-
 
 
 ⚙ Project Management & Workflow
@@ -55,7 +33,7 @@ Advanced Cybersecurity Techniques (SQL Injection, Phishing, OS Vulnerabilities)
 ✔ Software Architecture & Design Patterns
 
 🔗 API Integration & DevOps
-✔ REST APIs | Firebase | AI APIs | PayStack API
+✔ REST APIs | Firebase | AI APIs 
 ✔ Git, GitHub (Version Control)
 ✔ Prompt Engineering & AI-driven Development
 
