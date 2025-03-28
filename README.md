@@ -15,6 +15,11 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 
 🛠️ Tech Stack
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<p align="center">
 💻 Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,babel,bash,discord,django,figma,firebase,git,github,Instagram,java,LinkedIn,materialui,matlab,mongodb,Mysql,netlify,nextjs,npm,notion,py,react,sass,tailwind,ts,vercel,twitter,vscode,vite)](https://skillicons.dev)
 </p>
