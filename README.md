@@ -30,10 +30,11 @@ Cloud Infrastructure & DevOps
 Advanced Cybersecurity Techniques (SQL Injection, Phishing, OS Vulnerabilities)
 
 🛠️ Tech Stack
+<p align="center">
+
 💻 Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,babel,bash,discord,django,figma,firebase,git,github,Instagram,java,LinkedIn,materialui,matlab,mongodb,Mysql,netlify,nextjs,npm,notion,py,react,sass,tailwind,ts,vercel,twitter,vscode,vite)](https://skillicons.dev)
-
-
+</p>
 
 
 
