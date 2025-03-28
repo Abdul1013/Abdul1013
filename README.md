@@ -6,37 +6,12 @@
 I specialize in building scalable and secure web and mobile apps, applying engineering principles, and leveraging AI tools. With strong expertise in front-end technologies, serverless and cloud backend, project management, and API integration, I am passionate about crafting user-friendly technological solutions and collaborating with cross-functional teams to bridge the gap between technical requirements and business objectives. Beyond development, I have a deep interest in Web3 and Cybersecurity, particularly in blockchain applications, smart contracts, and ethical hacking.
 
 
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 20px; gap: 20px; flex-wrap: wrap; background-color: #f4f4f4; border-radius: 10px;">
-  
-  <!-- Reading Section -->
-  <div style="text-align: center;">
-    <h3>📖 Reading:</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>The Pragmatic Programmer</li>
-      <li>The Art of War</li>
-    </ul>
-  </div>
+## 🚀 Currently...
 
-  <!-- Building Section -->
-  <div style="text-align: center;">
-    <h3>🛠 Building:</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li><b>Market Trybe</b> - (E-commerce & Marketplace | React Native, Firebase)</li>
-      <li><b>AI-Powered Web3 Platform</b> - (Event Management & Invitations)</li>
-    </ul>
-  </div>
+                | 📖 Reading |                                          |🛠 Building |                                        | 🎯 Learning |
 
-  <!-- Learning Section -->
-  <div style="text-align: center;">
-    <h3>🎯 Learning:</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>React Native & Mobile Development</li>
-      <li>TypeScript (TS) Enhancement</li>
-    </ul>
-  </div>
-
-</div>
-
+            | The Pragmatic Programmer|                      |Market Trybe (E-commerce & Marketplace)|              | React Native & Mobile Development |
+              | The Art of War |                       |AI-Powered Web3 Platform(Event Management & Invitations)|      | TypeScript (TS) Enhancement |
 
 🛠️ Tech Stack
 <p align="center">
