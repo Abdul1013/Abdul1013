@@ -1,5 +1,6 @@
-<div ><h1>Assalamu alaykum, Hey, I'm Abdulhaq</h1>
-<h2 align="center">🚀 Software Engineer | Aspiring Cyber Security Analyst </h2>
+<div ><h6>السَّلَامُ عَلَيْكُمْ </h6>
+  <h3>Hey, I'm Abdulhaq</h3>
+<h2 align="center">🚀 Software Security Engineer  </h2>
   <h3> 🌐web development | cross-platfrom Mobile 📱 Developement | 🤖AI Integratorion </h3>
 </div>
 
@@ -17,7 +18,7 @@ I specialize in building scalable and secure web and mobile apps, applying engin
 <div>
 🛠 Building:
 Market Trybe (E-commerce & Marketplace App | React Native, Firebase)
-AI-Powered Web3 Platform (Exploring AI & Blockchain Integration){event management and Invitation}
+#AI-Powered Web3 Platform (Exploring AI & Blockchain Integration){event management and Invitation}
 </div>
 <div>
 🎯 Learning:
