@@ -1,4 +1,4 @@
-# 🛡️ Abdulhaq | Software Security Engineer & Deep Tech Strategist
+# 🛡️ Abdulhaq | Software Security Engineer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Security-Red?style=for-the-badge&logo=shippable&logoColor=white" />
@@ -13,7 +13,7 @@ I transform technical complexity into secure, scalable business solutions. My ap
 *   **Business Productivity:** Leveraging AI-driven workflows and Prompt Engineering to accelerate R&D.
 *   **Architectural Strategy:** Converting vague requirements into resilient, cloud-native infrastructures.
 
----
+
 
 ### 🚀 Currently...
 - 🛠 **Building:** [Janco](https://github.com/yourlink) - Automated Cleaning Engine .
@@ -21,7 +21,6 @@ I transform technical complexity into secure, scalable business solutions. My ap
 - 📖 **Reading:** *The Pragmatic Programmer* & *The Art of War*.
 - 🎯 **Learning:** Deep-tech domain specialisation in Cybersecurity.
 
----
 
 ### 🛠️ Strategic Tech Stack
 
